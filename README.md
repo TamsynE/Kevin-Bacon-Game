@@ -8,7 +8,7 @@ This program goes beyond Kevin Bacon and provides an authoritative path between 
 
 The program performs the following actions:
 
-1) Loads the movie database from the IMDB fiel into a graph object
+1) Loads the movie database from the IMDB file into a graph object
 2) Reads console input such as "Antonio Banderas and Audrey Hepburn"
 3) Verifies that each actress/actor is valid
 4) Verifies that the two people are connected
